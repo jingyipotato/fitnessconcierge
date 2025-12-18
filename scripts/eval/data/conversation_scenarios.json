@@ -1,0 +1,8 @@
+{
+  "scenarios": [
+    {
+      "starting_prompt": "I want to start getting fit!",
+      "conversation_plan": "You are a beginner looking to lose weight. Provide these core information all at once. When asked about workout plan, provide: weight loss, beginner level. Can train 3 days per week, home gym access all at once. For meal plan: provide 75kg, 32, male, moderate, no allergies all at once. Approve both plans without requesting changes."
+    }
+  ]
+}
