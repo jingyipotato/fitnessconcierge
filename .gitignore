@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# ADK-generated files
+.adk/
+
+# Virtual environments
+.venv
+.env
+
+# Others
+.agent_engine_config.*
