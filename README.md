@@ -35,7 +35,7 @@ cd fitness_concierge
 
 # Create and activate virtual environment
 uv venv
-source .venv/bin/active
+source .venv/bin/activate
 
 # Install dependencies
 uv sync
